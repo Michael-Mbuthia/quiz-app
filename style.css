@@ -14,21 +14,21 @@
     border-radius: 15px;
 }
 
-.quiz-number{
+.quiz-container h2, h1{
     text-align: center;
 }
 
-.quiz-text p{
+.quiz-container p{
     margin: 8px;
 }
-.quiz-text ul li{
+.quiz-container ul li{
     list-style: none;
     padding: 5px;
     margin: 7px;
-    
+    cursor: pointer;
 }
 
-.quiz-text ul li label {
+ ul li label {
     cursor: pointer;
 }
 .button-box{
